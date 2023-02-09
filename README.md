@@ -1,1 +1,1 @@
-SHELL SCRIPTING
+Shell permissions
